@@ -4,7 +4,7 @@
 
 
 ## Publications
-- [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/forum?id=3rULBvOJ8D2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))\
+- [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/pdf?id=3rULBvOJ8D2))\
 Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
 *ICLR 2022*
 
