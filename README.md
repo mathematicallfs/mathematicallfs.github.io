@@ -3,6 +3,11 @@
 - Xi'an Jiaotong University - Sc.B in Mathematics (2015 - 2019). 
 
 
+## Preprints
+- [Connecting Optimization and Generalization via Gradient Flow Path Length]
+**Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li.
+
+
 ## Publications
 - [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/pdf?id=3rULBvOJ8D2)\
 Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
