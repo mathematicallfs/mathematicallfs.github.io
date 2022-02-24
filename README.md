@@ -4,7 +4,7 @@
 
 
 ## Preprints
-- Connecting Optimization and Generalization via Gradient Flow Path Length\
+- [Connecting Optimization and Generalization via Gradient Flow Path Length](https://arxiv.org/abs/2202.10670)\
 **Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li.
 
 
