@@ -3,18 +3,20 @@
 - Xi'an Jiaotong University - Sc.B in Mathematics (2015 - 2019). 
 
 
-## Preprints
-- [Connecting Optimization and Generalization via Gradient Flow Path Length](https://arxiv.org/abs/2202.10670)\
-**Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li.
-
-
 ## Publications
+
+- [From Optimization Dynamics to Generalization Bounds via Łojasiewicz Gradient Inequality](https://arxiv.org/abs/2202.10670)\
+**Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li. \
+*Transactions on Machine Learning Research 2022*
+
 - [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/pdf?id=3rULBvOJ8D2)\
 Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
-*ICLR 2022*
+*International Conference on Learning Representations 2022*
 
 
 ## Useful Links
+- [Windows On Theory](https://windowsontheory.org)
+
 - [Project Euler](https://projecteuler.net)
 
 - [Simons Institute](https://simons.berkeley.edu/workshops/past)
