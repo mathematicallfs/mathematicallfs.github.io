@@ -5,7 +5,7 @@
 
 ## Publications
 
-- [From Optimization Dynamics to Generalization Bounds via Łojasiewicz Gradient Inequality](https://arxiv.org/abs/2202.10670)\
+- [From Optimization Dynamics to Generalization Bounds via Łojasiewicz Gradient Inequality](https://openreview.net/pdf?id=mW6nD3567x)\
 **Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li. \
 *Transactions on Machine Learning Research 2022*
 
