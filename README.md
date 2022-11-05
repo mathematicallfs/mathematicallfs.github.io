@@ -35,8 +35,6 @@ Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
 
 - [Off the Convex Path](https://www.offconvex.org)
 
-- [Tricki](http://www.tricki.org/tricki/articles)
-
 - [Djalil Chafaï](http://djalil.chafai.net/blog/)
 
 - [Vanishing Component Analysis](http://proceedings.mlr.press/v28/livni13.pdf)
