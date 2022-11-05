@@ -15,6 +15,8 @@ Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
 
 
 ## Useful Links
+- [Clayton Sanford](http://blog.claytonsanford.com)
+
 - [Windows On Theory](https://windowsontheory.org)
 
 - [Project Euler](https://projecteuler.net)
@@ -23,7 +25,7 @@ Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
 
 - [Learning and Control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 
-- [Matus Telgarsky](http://mjt.cs.illinois.edu/courses/dlt-f20/files/lec.html)
+- [Matus Telgarsky](https://mjt.cs.illinois.edu/dlt/index.pdf)
 
 - [Francis Bach](https://francisbach.com/)
 
