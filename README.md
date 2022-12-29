@@ -21,7 +21,7 @@ Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
 
 - [Project Euler](https://projecteuler.net)
 
-- [Simons Institute](https://simons.berkeley.edu/workshops/past)
+- [Simons Institute](https://simons.berkeley.edu/workshop-symposia#nav-past)
 
 - [Learning and Control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 
