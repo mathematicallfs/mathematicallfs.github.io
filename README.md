@@ -5,6 +5,10 @@
 
 ## Publications
 
+- [Data-Free Diversity-Based Ensemble Selection for One-Shot Federated Learning](https://openreview.net/pdf?id=ORMlg4g3mG)\
+  Naibo Wang, Wenjie Feng, yuchen deng, Moming Duan, **Fusheng Liu**, See-Kiong Ng. \
+  *Transactions on Machine Learning Research 2023*
+
 - [From Optimization Dynamics to Generalization Bounds via Łojasiewicz Gradient Inequality](https://openreview.net/pdf?id=mW6nD3567x)\
 **Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li. \
 *Transactions on Machine Learning Research 2022*
