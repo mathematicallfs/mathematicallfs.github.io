@@ -7,7 +7,8 @@
 
 - From Generalization Analysis to Optimization Designs for State Space Models\
   **Fusheng Liu**, Qianxiao Li. \
-  *International Conference on Machine Learning 2024*
+  *ICML 2024* \
+  *ICLR 2024 Workshop BGPT*
 
 - [Data-Free Diversity-Based Ensemble Selection for One-Shot Federated Learning](https://openreview.net/pdf?id=ORMlg4g3mG)\
   Naibo Wang, Wenjie Feng, yuchen deng, Moming Duan, **Fusheng Liu**, See-Kiong Ng. \
@@ -19,7 +20,7 @@
 
 - [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/pdf?id=3rULBvOJ8D2)\
   Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
-  *International Conference on Learning Representations 2022*
+  *ICLR 2022*
 
 
 ## Useful Links
