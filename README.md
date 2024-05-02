@@ -5,17 +5,21 @@
 
 ## Publications
 
+- [From Generalization analysis to Optimization designs for State Space Models]\
+  **Fusheng Liu**, Qianxiao Li. \
+  *International Conference on Machine Learning 2024*
+
 - [Data-Free Diversity-Based Ensemble Selection for One-Shot Federated Learning](https://openreview.net/pdf?id=ORMlg4g3mG)\
   Naibo Wang, Wenjie Feng, yuchen deng, Moming Duan, **Fusheng Liu**, See-Kiong Ng. \
   *Transactions on Machine Learning Research 2023*
 
 - [From Optimization Dynamics to Generalization Bounds via Łojasiewicz Gradient Inequality](https://openreview.net/pdf?id=mW6nD3567x)\
-**Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li. \
-*Transactions on Machine Learning Research 2022*
+  **Fusheng Liu**, Haizhao Yang, Soufiane Hayou, Qianxiao Li. \
+  *Transactions on Machine Learning Research 2022*
 
 - [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/pdf?id=3rULBvOJ8D2)\
-Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
-*International Conference on Learning Representations 2022*
+  Yingtian Zou, **Fusheng Liu**, Qianxiao Li. \
+  *International Conference on Learning Representations 2022*
 
 
 ## Useful Links
