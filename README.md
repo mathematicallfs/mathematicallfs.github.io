@@ -5,7 +5,7 @@
 
 ## Publications
 
-- From Generalization analysis to Optimization designs for State Space Models\
+- From Generalization Analysis to Optimization Designs for State Space Models\
   **Fusheng Liu**, Qianxiao Li. \
   *International Conference on Machine Learning 2024*
 
