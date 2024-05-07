@@ -5,7 +5,7 @@
 
 ## Publications
 
-- From Generalization Analysis to Optimization Designs for State Space Models\
+- [From Generalization Analysis to Optimization Designs for State Space Models](http://arxiv.org/abs/2405.02670)\
   **Fusheng Liu**, Qianxiao Li. \
   *ICML 2024* \
   *ICLR 2024 Workshop BGPT*
