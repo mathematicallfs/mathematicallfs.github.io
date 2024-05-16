@@ -8,7 +8,7 @@
 - [From Generalization Analysis to Optimization Designs for State Space Models](http://arxiv.org/abs/2405.02670)\
   **Fusheng Liu**, Qianxiao Li. \
   *ICML 2024* \
-  *ICLR 2024 Workshop BGPT*
+  *ICLR 2024 BGPT Workshop*
 
 - [Data-Free Diversity-Based Ensemble Selection for One-Shot Federated Learning](https://openreview.net/pdf?id=ORMlg4g3mG)\
   Naibo Wang, Wenjie Feng, yuchen deng, Moming Duan, **Fusheng Liu**, See-Kiong Ng. \
