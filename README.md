@@ -10,6 +10,10 @@
   *ICML 2024* \
   *ICLR 2024 BGPT Workshop*
 
+- [Cross-Domain Feature Augmentation for Domain Generalization](https://arxiv.org/abs/2405.08586)\
+  Yingnan Liu, Yingtian Zou, Rui Qiao, **Fusheng Liu**, Mong Li Lee, Wynne Hsu. \
+  *IJCAI 2024*
+
 - [Data-Free Diversity-Based Ensemble Selection for One-Shot Federated Learning](https://openreview.net/pdf?id=ORMlg4g3mG)\
   Naibo Wang, Wenjie Feng, yuchen deng, Moming Duan, **Fusheng Liu**, See-Kiong Ng. \
   *Transactions on Machine Learning Research 2023*
@@ -27,7 +31,7 @@
 
 - Conference Reviewer for ICLR, NeurIPS, ICML
 
-- Top Reviewer for NeurIPS 2023
+- [Top Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) for NeurIPS 2023
 
 
 ## Useful Links
