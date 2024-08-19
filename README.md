@@ -5,7 +5,7 @@
 
 ## Publications
 
-- [The Role of State Matrix Initialization in SSMs: A Perspective on the Approximation-Estimation Tradeoff]\
+- The Role of State Matrix Initialization in SSMs: A Perspective on the Approximation-Estimation Tradeoff\
   **Fusheng Liu**, Qianxiao Li. \
   *ICML 2024 NGSM Workshop*
 
