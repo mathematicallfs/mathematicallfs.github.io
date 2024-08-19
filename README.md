@@ -5,6 +5,10 @@
 
 ## Publications
 
+- [The Role of State Matrix Initialization in SSMs: A Perspective on the Approximation-Estimation Tradeoff]\
+  **Fusheng Liu**, Qianxiao Li. \
+  *ICML 2024 NGSM Workshop*
+
 - [From Generalization Analysis to Optimization Designs for State Space Models](http://arxiv.org/abs/2405.02670)\
   **Fusheng Liu**, Qianxiao Li. \
   *ICML 2024* \
