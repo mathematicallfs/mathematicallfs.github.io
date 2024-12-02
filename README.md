@@ -9,12 +9,12 @@
   **Fusheng Liu**, Qianxiao Li. \
   Short version in *ICML 2024 NGSM Workshop*
 
-- [From Generalization Analysis to Optimization Designs for State Space Models](http://arxiv.org/abs/2405.02670)\
+- [From Generalization Analysis to Optimization Designs for State Space Models](https://openreview.net/pdf?id=WjNzXeiOSL)\
   **Fusheng Liu**, Qianxiao Li. \
   *ICML 2024* \
   *ICLR 2024 BGPT Workshop*
 
-- [Cross-Domain Feature Augmentation for Domain Generalization](https://arxiv.org/abs/2405.08586)\
+- [Cross-Domain Feature Augmentation for Domain Generalization](https://openreview.net/pdf?id=PCXkNHTTH5)\
   Yingnan Liu, Yingtian Zou, Rui Qiao, **Fusheng Liu**, Mong Li Lee, Wynne Hsu. \
   *IJCAI 2024*
 
