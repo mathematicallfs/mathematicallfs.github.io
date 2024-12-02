@@ -5,9 +5,9 @@
 
 ## Publications
 
-- The Role of State Matrix Initialization in SSMs: A Perspective on the Approximation-Estimation Tradeoff\
+- [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
   **Fusheng Liu**, Qianxiao Li. \
-  *ICML 2024 NGSM Workshop*
+  Short version in *ICML 2024 NGSM Workshop*
 
 - [From Generalization Analysis to Optimization Designs for State Space Models](http://arxiv.org/abs/2405.02670)\
   **Fusheng Liu**, Qianxiao Li. \
