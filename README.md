@@ -5,6 +5,10 @@
 
 ## Publications
 
+- [Paid with Models: Optimal Contract Design for Collaborative Machine Learning](https://arxiv.org/pdf/2412.11122)\
+  Bingchen Wang, Zhaoxuan Wu, **Fusheng Liu**, Bryan Kian Hsiang Low. \
+  *AAAI 2025*
+
 - [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
   **Fusheng Liu**, Qianxiao Li. \
   Short version in *ICML 2024 NGSM Workshop*
