@@ -7,7 +7,7 @@
 
 - [Paid with Models: Optimal Contract Design for Collaborative Machine Learning](https://arxiv.org/pdf/2412.11122)\
   Bingchen Wang, Zhaoxuan Wu, **Fusheng Liu**, Bryan Kian Hsiang Low. \
-  *AAAI 2025*
+  *AAAI 2025* (**Oral**)
 
 - [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
   **Fusheng Liu**, Qianxiao Li. \
@@ -43,7 +43,7 @@
 
 
 ## Useful Links
-- [Clayton Sanford](http://blog.claytonsanford.com)
+- [Clayton's Blog](http://blog.claytonsanford.com)
 
 - [Windows On Theory](https://windowsontheory.org)
 
@@ -53,13 +53,13 @@
 
 - [Learning and Control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 
-- [Matus Telgarsky](https://mjt.cs.illinois.edu/dlt/index.pdf)
+- [Deep learning theory lecture notes by Matus Telgarsky](https://mjt.cs.illinois.edu/dlt/index.pdf)
 
-- [Francis Bach](https://francisbach.com/)
+- [Machine Learning Research Blog by Francis Bach](https://francisbach.com/)
 
-- [Benjamin Recht](https://www.argmin.net)
+- [Benjamin Recht's Blog](https://www.argmin.net)
 
-- [Stephen Tu](https://stephentu.github.io/blog/)
+- [Stephen Tu's Blog](https://stephentu.github.io/blog/)
 
 - [Off the Convex Path](https://www.offconvex.org)
 
