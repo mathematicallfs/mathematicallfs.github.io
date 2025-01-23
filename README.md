@@ -11,7 +11,8 @@
 
 - [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
   **Fusheng Liu**, Qianxiao Li. \
-  Short version in *ICML 2024 NGSM Workshop*
+  *ICLR 2025* \
+  *ICML 2024 NGSM Workshop*
 
 - [From Generalization Analysis to Optimization Designs for State Space Models](https://openreview.net/pdf?id=WjNzXeiOSL)\
   **Fusheng Liu**, Qianxiao Li. \
