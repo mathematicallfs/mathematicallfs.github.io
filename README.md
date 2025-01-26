@@ -7,7 +7,7 @@
 
 - [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
   **Fusheng Liu**, Qianxiao Li. \
-  *ICLR 2025* \
+  *ICLR 2025* 
 
 - [Paid with Models: Optimal Contract Design for Collaborative Machine Learning](https://arxiv.org/pdf/2412.11122)\
   Bingchen Wang, Zhaoxuan Wu, **Fusheng Liu**, Bryan Kian Hsiang Low. \
@@ -15,7 +15,7 @@
 
 - [From Generalization Analysis to Optimization Designs for State Space Models](https://openreview.net/pdf?id=WjNzXeiOSL)\
   **Fusheng Liu**, Qianxiao Li. \
-  *ICML 2024* \
+  *ICML 2024* 
 
 - [Cross-Domain Feature Augmentation for Domain Generalization](https://openreview.net/pdf?id=PCXkNHTTH5)\
   Yingnan Liu, Yingtian Zou, Rui Qiao, **Fusheng Liu**, Mong Li Lee, Wynne Hsu. \
