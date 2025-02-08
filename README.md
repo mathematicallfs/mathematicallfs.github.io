@@ -5,7 +5,7 @@
 
 ## Publications
 
-- [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://arxiv.org/abs/2411.19455)\
+- [Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models](https://openreview.net/pdf?id=sZJNkorXMk)\
   **Fusheng Liu**, Qianxiao Li. \
   *ICLR 2025* 
 
