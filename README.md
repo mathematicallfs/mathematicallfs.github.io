@@ -5,7 +5,7 @@
 
 ## Publications
 
-- [Leveraging Diffusion Model as Pseudo-Anomalous Graph Generator for Graph-Level Anomaly Detection]\
+- Leveraging Diffusion Model as Pseudo-Anomalous Graph Generator for Graph-Level Anomaly Detection\
   Jinyu Cai, Yunhe Zhang, **Fusheng Liu**, See-Kiong Ng. \
   *ICML 2025* (**Spotlight**)
 
