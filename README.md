@@ -73,4 +73,4 @@
 - [Algebraic Geometry and Statistical Learning Theory](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/ag-slt.html)
 
 - [Mazur's theorem in elliptic curves](http://www-personal.umich.edu/~asnowden/teaching/2013/679/)
-  
+
